@@ -12,8 +12,8 @@ You can click the Preview link to take a look at your changes.
 
 
 <!-- <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=cyinen" /> </div> -->
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=cyinen&theme=xcode" /> </div>
+<!-- <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=cyinen&theme=xcode" /> </div> -->
 
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=cyinen" /> </div>
+<!-- <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=cyinen" /> </div> -->
 
 
