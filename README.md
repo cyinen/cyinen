@@ -10,32 +10,47 @@ You can click the Preview link to take a look at your changes.
 
 I am Yin, a Phd. student in Information and Communication Engineering, Hefei University of Technology (HFUT).
 
-I’m now focusing on Computer Vision, Multimedia Affective Computing, Facial Expression Recogniiton. If you are seeking any form of academic cooperation, please feel free to email me at chenyin@mail.hfut.edu.cn.
+I’m now focusing on Computer Vision, Multimedia Affective Computing, Facial Expression Recogniiton. If you are seeking any form of **academic cooperation**, please feel free to email me at [chenyin@mail.hfut.edu.cn](mailto:chenyin@mail.hfut.edu.cn).
 
-🔥 News
-2023.04: 🎉 First place of Emotional Reaction Intensity (ERI) Estimation Challenge in CVPR2023-ABAW5
-2023.04: 🔥 We release CVPR2023-ABAW5-ERI
-2023.05: 🎉 One paper (Multimodal feature extraction and fusion for emotional reaction intensity estimation and expression classification in videos with transformers is accepted by CVPRW 2023
-📝 Publications
-🎙Affective Computing
-CVPRW 2023sym
-Multimodal feature extraction and fusion for emotional reaction intensity estimation and expression classification in videos with transformers
-Jia Li*, Yin Chen*, Xuesong Zhang, Jiantao Nie, Ziqiang Li, Yangchen Yu, Yan Zhang, Richang Hong† ,Meng Wang
+# 🔥 News
 
-Project
+- _2023.04_: 🎉 **First place** of Emotional Reaction Intensity (ERI) Estimation Challenge in [CVPR2023-ABAW5](https://ibug.doc.ic.ac.uk/resources/cvpr-2023-5th-abaw/)
+- _2023.04_: 🔥 We release [CVPR2023-ABAW5-ERI](https://github.com/cyinen/CVPR2023-ABAW5-ERI)
+- _2023.05_: 🎉 One paper ([Multimodal feature extraction and fusion for emotional reaction intensity estimation and expression classification in videos with transformers](https://openaccess.thecvf.com/content/CVPR2023W/ABAW/html/Li_Multimodal_Feature_Extraction_and_Fusion_for_Emotional_Reaction_Intensity_Estimation_CVPRW_2023_paper.html) is accepted by CVPRW 2023
 
-The Winner’s Solution of CVPR2023-ABAW5 Emotional Reaction Intensity (ERI) Estimation Challenge.
-Others
-🎖 Honors and Awards
-2022.10 合肥工业大学斛兵学子奖学金
-2022.06 合肥工业大学优秀毕业生
-2021.10 合肥工业大学二等奖学金
-2020.10 合肥工业大学三等奖学金
-2019.10 合肥工业大学三等奖学金
-📖 Educations
-2018.09 - 2022.06, Hefei University of Technology, Hefei, China.
-2015.09 - now, Phd., Hefei University of Technology, Hefei, China.
-2015.09 - 2018.06, Shangyu Chunhui Middle School, ShaoXing.
-💬 Invited Talks
-💻 Internships
-2021.12 - 2022.09, Microsoft Research Asia, Beijing.
+# 📝 Publications
+
+## 🎙Affective Computing
+
+CVPRW 2023
+
+![sym](https://cyinen.github.io/images/9cf7ac3f5368cecc527d73fafd59eb2.png)
+
+[Multimodal feature extraction and fusion for emotional reaction intensity estimation and expression classification in videos with transformers](https://papers.nips.cc/paper/8580-fastspeech-fast-robust-and-controllable-text-to-speech.pdf)  
+Jia Li*, **Yin Chen***, Xuesong Zhang, Jiantao Nie, Ziqiang Li, Yangchen Yu, Yan Zhang, Richang Hong† ,Meng Wang
+
+[**Project**](https://github.com/cyinen/CVPR2023-ABAW5-ERI)
+
+- The Winner’s Solution of CVPR2023-ABAW5 Emotional Reaction Intensity (ERI) Estimation Challenge.
+
+## Others
+
+# 🎖 Honors and Awards
+
+- _2022.10_ 合肥工业大学斛兵学子奖学金
+- _2022.06_ 合肥工业大学优秀毕业生
+- _2021.10_ 合肥工业大学二等奖学金
+- _2020.10_ 合肥工业大学三等奖学金
+- _2019.10_ 合肥工业大学三等奖学金
+
+# 📖 Educations
+
+- _2018.09 - 2022.06_, Hefei University of Technology, Hefei, China.
+- _2015.09 - now_, Phd., Hefei University of Technology, Hefei, China.
+- _2015.09 - 2018.06_, Shangyu Chunhui Middle School, ShaoXing.
+
+# 💬 Invited Talks
+
+# 💻 Internships
+
+- _2021.12 - 2022.09_, Microsoft Research Asia, Beijing.
