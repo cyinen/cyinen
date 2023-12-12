@@ -41,7 +41,12 @@ arXiv 2023
 
 ![sym](https://cyinen.github.io//images/iShot_2023-12-12_10.02.57.png)
 
+[From Static to Dynamic: Adapting Landmark-Aware Image Models for Facial Expression Recognition in Videos](https://arxiv.org/abs/2312.05447)  
+**Yin Chen†**, Jia Li†_, Shiguang Shan, Meng Wang, Richang Hong_
 
+[**Github**](https://github.com/FER-LMC/S2D)
+
+-   The offical implementation of the paper: From Static to Dynamic: Adapting Landmark-Aware Image Models for Facial Expression Recognition in Videos.
 ## Others
 
 # 🎖 Honors and Awards
