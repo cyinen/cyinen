@@ -26,7 +26,7 @@ I’m now focusing on Computer Vision, Multimedia Affective Computing, Facial Ex
 
 CVPRW 2023
 
-![sym](https://cyinen.github.io//images\9cf7ac3f5368cecc527d73fafd59eb2.png)
+![sym](https://cyinen.github.io//images/9cf7ac3f5368cecc527d73fafd59eb2.png)
 
 [Multimodal feature extraction and fusion for emotional reaction intensity estimation and expression classification in videos with transformers](https://papers.nips.cc/paper/8580-fastspeech-fast-robust-and-controllable-text-to-speech.pdf)  
 Jia Li\*, **Yin Chen\***, Xuesong Zhang, Jiantao Nie, Ziqiang Li, Yangchen Yu, Yan Zhang, Richang Hong† ,Meng Wang
